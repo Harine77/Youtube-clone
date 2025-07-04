@@ -45,9 +45,11 @@
 ## 📸 **SCREENSHOTS**
 
 </div>
-![image](https://github.com/user-attachments/assets/dbffa3f0-4d42-45b6-ae91-a4779a2db9f3)
-![image](https://github.com/user-attachments/assets/ac5e0ace-d37f-4afd-9782-b05e48013225)
----
+
+![Screenshot 2025-07-04 231913](https://github.com/user-attachments/assets/8c493768-d197-4fa7-bc43-c92e481a97cf)
+
+![Screenshot 2025-07-04 232010](https://github.com/user-attachments/assets/8e77be4a-d863-4954-9f03-5a60003ceed9)
+
 
 <div align="center">
 
@@ -65,9 +67,9 @@
 <em>Structure & Semantics</em>
 </td>
 <td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"><br>
-<strong>CSS3</strong><br>
-<em>Styling & Layout</em>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"><br>
+  <strong>CSS3</strong><br>
+  <em>Styling & Layout</em>
 </td>
 <td align="center" width="25%">
 <img src="https://fonts.google.com/icons?selected=Material+Icons" width="50" height="50"><br>
@@ -159,6 +161,8 @@ open index.html
 │   └── 👤 profile-*.jpg
 └── 📖 README.md           # Documentation
 ```
+
+
 
 </div>
 ---
